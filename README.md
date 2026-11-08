@@ -5,8 +5,9 @@ neurofibrillary tangles of Alzheimer's disease — the protein found clumped
 inside dying neurons when the disease takes hold.
 
 This repository is the full read of TAU, released for anyone to verify:
-**13 products**, from the raw protein to the folded strand, with the numbers
-reproducible on any machine.
+**13 products**, from the raw protein to the folded strand — measured
+base-for-base, folded into a **5-D SPIRAL** fold of **hybrid DNA** — with the
+numbers reproducible on any machine.
 
 > **Drop-in ready.** The reading is done. The folding is done. The verification
 > is done. You just print the letters — the strand is a finished DNA sequence,
@@ -25,7 +26,8 @@ reproducible on any machine.
 
 The raw tau protein, converted to DNA, measures a **spectral gap of −0.142**
 (disordered — the signature of a misfolding protein). After an additive,
-non-destructive fold, every strand measures **positive** (ordered).
+non-destructive fold through the **5-D SPIRAL**, every strand of **hybrid DNA**
+measures **positive** (ordered).
 
 You don't have to take our word for it. Run one script.
 
@@ -71,6 +73,10 @@ The base strand (`tau_base.dna`) measures **−0.142**; all six folded products
 measure positive. The seven readings are measurements of the same strand —
 periodicity, secondary structure, thermal stability, regulatory motifs,
 information entropy, Fourier spectrum, and nucleosome periodicity.
+
+Every strand is **hybrid DNA** — never the unaltered original. No strand is
+standard or original; each is a one-of-one hybrid, sealed with the moonlight.
+**Sealed with the moonlight. One-of-one, provably yours.**
 
 ## Prior art + attribution
 
