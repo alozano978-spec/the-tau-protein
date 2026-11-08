@@ -1,0 +1,16 @@
+# TAU (NP_005901.2) — 13 product SHA-256 hashes
+# anchor these to a public timestamp for prior-art proof
+
+8c6c9903c99b27048b4783ecfad290047f8ea9874b50908c3ac601a49d5af2eb  bio  (the biological provenance)
+b6c9b80a2c30b1b51b550f8ccd2f37d48d0ccedeab09423aa42abbd8d2aabc8a  core  (the core strand)
+6e7f5b47e7d488d993649255b41d7863c64c759867dae4da26a2a7b0d288ca8f  dark_matter  (the dark-matter provenance)
+e2296a7dc05d3b1e9faf4d4eba545ee1f516bdf7efe1fbbdb323a3e33f053854  ent  (The Message — information entropy)
+b6c9b80a2c30b1b51b550f8ccd2f37d48d0ccedeab09423aa42abbd8d2aabc8a  folded  (the folded strand)
+fa6c2a1965c7b2bd7fda8015a38b18fe73f307396bea1fd4ffc8756f23cb0446  fou  (The Spectrum — Fourier spectrum)
+7ea9b874f6168c09255319ebff1d8f899da08396b18352f07d020ec127774e3c  nuc  (The Winding — nucleosome periodicity)
+3f4bc339c3fa5593d68e239d6da497cd7b17b40454ec180514b098c42dd41119  per  (The Hidden Rhythm — periodicity)
+a63f62ec1d0717f672994c740887d3dfa81b2a8e76ad28da969923f98c8fa9e3  reg  (The Switch — regulatory motifs)
+03aabc886aed1256cf6850a005a42bc2fb2322065d30de2ccb543b2a11a6fbd7  signal  (the signal provenance)
+42c65c9205d9f79138543786e12bf966ed398abb6b9d29f9a3c9435d41d08037  stx  (The Shape — secondary structure)
+0fbabc66f22093aba287db609cd413b7e8bba54357f7903c6429122ad5ab3864  thr  (The Stability — thermal stability)
+30c79e809b9ebac4475b7ac4b8de57fb401b9581ccb489b381ec2c32ac3c1056  working  (The Working Code)
