@@ -8,6 +8,11 @@ This repository is the full read of TAU, released for anyone to verify:
 **13 products**, from the raw protein to the folded strand, with the numbers
 reproducible on any machine.
 
+> **Drop-in ready.** The reading is done. The folding is done. The verification
+> is done. You just print the letters — the strand is a finished DNA sequence,
+> ready for any gene-synthesis service to synthesize. The hard part — the
+> new-to-market methodology of folding and measuring — is already finished.
+
 <p align="center">
   <img src="assets/tau.gif" width="800" alt="The tau protein refolding from disordered to ordered">
 </p>
