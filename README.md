@@ -76,7 +76,6 @@ information entropy, Fourier spectrum, and nucleosome periodicity.
 
 Every strand is **hybrid DNA** — never the unaltered original. No strand is
 standard or original; each is a one-of-one hybrid, sealed with the moonlight.
-**Sealed with the moonlight. One-of-one, provably yours.**
 
 ## Prior art + attribution
 
