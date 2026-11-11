@@ -88,8 +88,18 @@ moment of anchoring.
 - Verify: `ots verify hashes.txt.ots`
 
 This release is the **result** of a proprietary folding pipeline. The strands
-are free to use and study with attribution; the folding method itself is not
-included and remains proprietary. See `LICENSE`.
+are free to verify and research with attribution; resale and repackaging are
+prohibited, and any commercial use requires a separate license with a 10% royalty.
+The folding method itself is not included and remains proprietary. See `LICENSE`.
+
+---
+
+## Links
+
+- **[panmitos.com](https://panmitos.com/)** — the full PANMITOS™ catalog.
+- **[panmitos.com/chainlock/](https://panmitos.com/chainlock/)** — CHAINLOCK™: every product line hashed, rooted, and locked to the Bitcoin blockchain.
+- **[forged-on-chain.com](https://forged-on-chain.com/)** — FORGED-ON-CHAIN LLC.
+- **[automitos.com](https://automitos.com/)** — the AUTOMITOS self-thread: the recording identity.
 
 ---
 

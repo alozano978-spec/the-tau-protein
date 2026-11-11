@@ -1,17 +1,26 @@
-# License
+# LICENSE
 
-## Code (`verify.py`)
+## Summary — plain language
+
+- **The verification script (`verify.py`) is free for everyone, forever.**
+- **The DNA strands (`data/`) are free to verify, study, and research — with attribution.** But **resale and repackaging are prohibited**, and **any commercial use requires a separate paid license** carrying a **10% royalty**.
+- **By cloning, downloading, copying, transferring, or saving any part of this repository, you automatically agree to these terms — no signature required.**
+- **The folding method is not included and not licensed here.** This repository publishes the *result* of the fold, never the fold itself.
+
+---
+
+## 1. Code — `verify.py`
 
 MIT License
 
-Copyright (c) 2026 Forged on Chain LLC
+Copyright (c) 2026 FORGED-ON-CHAIN LLC
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
@@ -24,12 +33,81 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Data (`data/*.dna`, `data/strands.json`, `hashes.txt`)
+---
 
-The DNA strands and their metadata are provided free for research, study, and
-verification, with attribution to Forged on Chain LLC ("FORGED-ON-CHAIN™").
-You may use, copy, and share the strands provided you retain this attribution.
+## 2. Data — `data/*.dna`, `data/strands.json`, `hashes.txt`
 
-The folding method that produced these strands is proprietary and is not
-included in, and is not licensed by, this repository. This release provides the
-result of the fold, not the fold itself.
+Copyright (c) 2026 FORGED-ON-CHAIN LLC. All rights reserved.
+
+The strands in this repository are **hybrid DNA** — never the unaltered original.
+Each strand is a specific, transformed work produced by FORGED-ON-CHAIN LLC's
+pipeline: back-translated through a specific codon table, folded through the
+5-D spiral, and hybridized. They are a derivative work, not the natural
+protein sequence.
+
+### 2.1 Free use — no license, no payment
+
+You may, without any separate license and without payment:
+
+1. **Verify** the strands yourself — run `verify.py`, check the hashes, confirm the measurements.
+2. **Study and research** them in any academic or non-commercial context.
+3. **Share** them for verification and research, provided you retain attribution to FORGED-ON-CHAIN LLC ("FORGED-ON-CHAIN™").
+4. **Cite** them, including the Bitcoin prior-art anchor in `hashes.txt.ots`.
+
+### 2.2 Resale and repackaging — prohibited in all cases
+
+In **all** cases, commercial or not, you may **not**:
+
+1. **Sell, resell, license, or sublicense** these strands or data, in original or modified form, standalone or bundled.
+2. **Repackage, rebrand, or redistribute** these strands or data — as part of any collection, dataset, marketplace, product, or service — at any price, including free, if the purpose is distribution for others' use.
+3. **Present these strands or data as your own**, or offer them as part of a product or service you control.
+
+Sharing for verification and research, with attribution, is permitted. **Reselling or repackaging, for any purpose, is not.**
+
+### 2.3 Commercial use — requires a separate license
+
+The following require a separate written license from FORGED-ON-CHAIN LLC:
+
+1. **Synthesizing** any strand for a commercial purpose.
+2. **Incorporating** any strand, or any derivative of it, into any product, therapeutic, diagnostic, tool, or service that is sold, licensed, or otherwise offered commercially.
+3. **Any use by a commercial entity** — or any person acting on its behalf — that goes beyond verification and research.
+
+### 2.4 Commercial license terms
+
+1. A separate written license from FORGED-ON-CHAIN LLC is required before any commercial use.
+2. The license carries a **10% royalty** on net revenue from any product, therapeutic, diagnostic, or service built using these strands or data.
+3. Attribution to FORGED-ON-CHAIN LLC ("FORGED-ON-CHAIN™") is required in all uses, commercial or not.
+
+### 2.5 What this does and does not cover
+
+- This license covers the **published hybrid strands and data** in this repository.
+- It does **not** restrict anyone from independently doing their own research on the natural protein — the raw sequence is public knowledge and is not owned by anyone. The restriction attaches to **these specific hybrid strands and their derivatives**, which are FORGED-ON-CHAIN LLC's transformed work.
+- No patent, trademark, or other right is granted except as stated here.
+
+### 2.6 Acceptance by use — no signature required
+
+By **cloning, downloading, copying, transferring, saving, or otherwise accessing** this repository or any part of it — including the strands, data, hashes, and proof files — you **automatically agree** to be bound by the terms of this LICENSE. No signature or separate act is required.
+
+If you do not agree to these terms, do not clone, download, copy, transfer, or save any part of this repository.
+
+### 2.7 Unauthorized use = infringement
+
+Any use of these strands or data outside the terms of this LICENSE — including commercial use without a written license, resale or repackaging, or failure to retain attribution — is an **unauthorized use** and an **infringement** of FORGED-ON-CHAIN LLC's rights in these works.
+
+### 2.8 Costs and legal fees
+
+In any action to enforce this LICENSE, an infringing user is responsible for **all costs of enforcement**, including the **reasonable attorneys' fees of both parties**.
+
+---
+
+## 3. The folding method — NOT licensed
+
+The proprietary folding methodology that produced these strands is **not included** in this repository and is **not licensed** by it, for any purpose, commercial or otherwise.
+
+This release provides the **result** of the fold, not the **fold** itself.
+
+---
+
+## 4. Prior art
+
+The strand hashes in `hashes.txt` are anchored to the Bitcoin blockchain via OpenTimestamps (`hashes.txt.ots`). This repository is a public, timestamped record of prior art, verifiable by anyone.
